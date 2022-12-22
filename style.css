@@ -5,7 +5,7 @@
 
 header,
 main,
-footer .footer,
+footer .contacts,
 footer .form {
     padding-left: 20px;
 }
@@ -58,12 +58,12 @@ main {
     height: 45px;
 }
 
-.footer {
+.contacts {
     background-color: #2B0021;
     color: #FFB2EC;
 }
 
-.footer a {
+.contacts a {
     text-decoration: none;
     color: #FFB2EC;
 }
